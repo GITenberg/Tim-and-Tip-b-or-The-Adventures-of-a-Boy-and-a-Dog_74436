@@ -1,0 +1,35 @@
+_repo: Tim-and-Tip-b-or-The-Adventures-of-a-Boy-and-a-Dog_74436
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Otis, James
+    aliases:
+    - Kaler, James Otis
+    - Orton, James K.
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+    wikipedia:
+    - https://en.wikipedia.org/wiki/James_Otis_Kaler
+    - http://www.gutenberg.org/ebooks/author/49402
+description: ''
+gutenberg_issued: '2024-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74436'
+language: en
+pgterms:marc905: 20190224163226otis
+pgterms:marc906: '1883'
+pgterms:marc907: US
+production_note: Produced by Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aNew York :$bHarper & Brothers Publishers, $c1883, copyright
+  1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tim and Tip : $b or, The Adventures of a Boy and a Dog'
+url: http://www.gutenberg.org/ebooks/74436
